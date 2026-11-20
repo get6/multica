@@ -27,7 +27,8 @@
     ],
     "overrides": {
       "@types/react": "catalog:",
-      "@types/react-dom": "catalog:"
+      "@types/react-dom": "catalog:",
+      "yauzl": "^3.3.1"
     }
   },
   "devDependencies": {
